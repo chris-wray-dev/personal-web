@@ -1,0 +1,30 @@
+p {
+  max-width: 800px;
+  margin: auto;
+}
+
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 0;
+  color: rgb(232, 232, 232);
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+hr {
+  border-color: rgb(210, 210, 210);
+  border-width: 2px;
+  width: 60%;
+}
+
+.chris-image {
+  border-radius: 100%;
+  height: 160px;
+  margin: 20px;
+}
+
+.northCoders-image, .rowanmoor-image, .embark-image {
+  width: 200px;
+  margin: 20px;
+}
