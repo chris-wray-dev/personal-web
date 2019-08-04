@@ -1,0 +1,12 @@
+.page-content-container {
+  background-color: rgba(84, 93, 96, 0.434);
+  min-height: 100vh;
+  height: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+
+.fab {
+  margin: 0 10px;
+}
