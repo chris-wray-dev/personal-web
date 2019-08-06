@@ -14,7 +14,7 @@ purple-green.css
 
 
 body {
-  background-image: linear-gradient(rgba(77, 66, 82, 0.571), rgba(230, 200, 101, 0.509)), url(src/assets/images/Manchester.jpg);
+  background-image: linear-gradient(rgba(77, 66, 82, 0.571), rgba(230, 200, 101, 0.509)), url(assets/Manchester.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
